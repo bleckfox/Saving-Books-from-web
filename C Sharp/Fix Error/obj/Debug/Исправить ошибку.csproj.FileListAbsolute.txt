@@ -1,0 +1,5 @@
+F:\Code\Csharp\Исправить ошибку\bin\Debug\Исправить ошибку.exe.config
+F:\Code\Csharp\Исправить ошибку\bin\Debug\Исправить ошибку.exe
+F:\Code\Csharp\Исправить ошибку\bin\Debug\Исправить ошибку.pdb
+F:\Code\Csharp\Исправить ошибку\obj\Debug\Исправить ошибку.exe
+F:\Code\Csharp\Исправить ошибку\obj\Debug\Исправить ошибку.pdb

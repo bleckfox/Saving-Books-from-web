@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Загрузка книг", "Загрузка книг.csproj", "{69614941-01AA-4DA2-9D48-03754F8B5996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Debug|Default.Build.0 = Debug|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Release|Default.ActiveCfg = Release|Any CPU
+		{69614941-01AA-4DA2-9D48-03754F8B5996}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC5E5204-51AF-4E2B-B861-EC15E4B93B4F}
+	EndGlobalSection
+EndGlobal

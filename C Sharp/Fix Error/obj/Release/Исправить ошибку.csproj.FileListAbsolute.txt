@@ -1,0 +1,6 @@
+F:\Code\Csharp\Исправить ошибку\bin\Release\Исправить ошибку.exe.config
+F:\Code\Csharp\Исправить ошибку\bin\Release\Исправить ошибку.exe
+F:\Code\Csharp\Исправить ошибку\bin\Release\Исправить ошибку.pdb
+F:\Code\Csharp\Исправить ошибку\obj\Release\Исправить ошибку.csprojAssemblyReference.cache
+F:\Code\Csharp\Исправить ошибку\obj\Release\Исправить ошибку.exe
+F:\Code\Csharp\Исправить ошибку\obj\Release\Исправить ошибку.pdb

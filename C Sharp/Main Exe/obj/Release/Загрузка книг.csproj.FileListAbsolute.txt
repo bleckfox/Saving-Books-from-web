@@ -1,0 +1,5 @@
+F:\Code\Csharp\Загрузка книг\bin\Release\Загрузка книг.exe.config
+F:\Code\Csharp\Загрузка книг\bin\Release\Загрузка книг.exe
+F:\Code\Csharp\Загрузка книг\bin\Release\Загрузка книг.pdb
+F:\Code\Csharp\Загрузка книг\obj\Release\Загрузка книг.exe
+F:\Code\Csharp\Загрузка книг\obj\Release\Загрузка книг.pdb
